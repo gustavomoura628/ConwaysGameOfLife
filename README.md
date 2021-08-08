@@ -5,7 +5,7 @@ left click to toggle cell<br>
 space to toggle pause<br>
 N to go to the next generation<br>
 S to print current board to terminal<br>
-L to read board from terminal<br><br>
-, and . to change simulation speed
+L to read board from terminal<br>
+, and . to change simulation speed<br><br>
 
 ![](screenshot.png)
