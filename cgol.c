@@ -45,7 +45,7 @@ void CSDL_DrawCircle(SDL_Renderer* renderer, int x, int y, int r){
 //int boardWidth=25;
 //int boardHeight=14;
 
-const int boardHeight=14;
+const int boardHeight=15;
 const int boardWidth = boardHeight*((float)SCREEN_WIDTH/SCREEN_HEIGHT);
 void printBoard(int * board){
 	int i,j;
