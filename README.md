@@ -4,8 +4,8 @@ A program to simulate conway's game of life
 left click to toggle cell<br>
 space to toggle pause<br>
 N to go to the next generation<br>
-L to print current board to terminal<br>
-S to read board from terminal<br><br>
+S to print current board to terminal<br>
+L to read board from terminal<br><br>
 , and . to change simulation speed
 
 ![](screenshot.png)
