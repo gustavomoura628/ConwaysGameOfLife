@@ -5,7 +5,6 @@ left click to toggle cell<br>
 space to toggle pause<br>
 n to go to the next generation<br>
 l to print current board to terminal<br>
-s to read board from terminal<br>
-<br>
-<br>
+s to read board from terminal<br><br>
+
 ![](screenshot.png)
